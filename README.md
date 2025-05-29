@@ -31,7 +31,7 @@ appointment-booking/
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/sayyidsajad/appointment-booking.git
+git clone https://github.com/sayyidsajad/appointment-booking-api.git
 cd appointment-booking-api
 python3 -m venv venv
 source venv/bin/activate
