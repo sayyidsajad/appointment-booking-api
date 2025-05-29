@@ -12,3 +12,9 @@ instance/db.sqlite3
 
 # Environment variables file (keep secrets safe)
 .env
+
+# Logs (if any created)
+*.log
+
+# Mac system files
+.DS_Store
