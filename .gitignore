@@ -1,0 +1,14 @@
+# Bytecode and cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+
+# SQLite DB stored in instance folder (local development DB)
+instance/db.sqlite3
+
+# Environment variables file (keep secrets safe)
+.env
